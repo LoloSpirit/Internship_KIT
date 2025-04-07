@@ -1,0 +1,139 @@
+\documentclass[fontsize=11pt,%
+twoside,
+BCOR          = 8mm]{scrreprt}
+\usepackage{xr}
+\usepackage[utf8]{inputenc}
+\usepackage{booktabs}
+\usepackage{adjustbox}
+\usepackage{makecell}
+\usepackage[english]{babel}
+\usepackage{rotating}
+\usepackage{tikzpagenodes}
+\usepackage[locale=DE]{siunitx}
+\usepackage[section]{placeins}  % Prevents figures from floating above section headers
+\sisetup{math-rm = true}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{xcolor}  
+\usepackage{pdflscape}
+\usepackage[nohyperlinks]{acronym}
+\graphicspath{ {images/} }
+\usepackage{times}
+\usepackage{color}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage[T1]{fontenc}
+
+\newcommand{\hsp}{\hspace{20pt}}
+\usepackage{tocloft}
+\usepackage{datetime}
+\usepackage{tabu}
+\usepackage{fancyhdr}
+\geometry{a4paper, tmargin=1in, rmargin=1in, bmargin=1in, lmargin=1in}
+\usepackage[backend=biber]{biblatex}
+
+\definecolor{jluhellblau}{RGB}{220, 230, 235}
+\definecolor{pantoneblack}{RGB}{0,0,0}
+\definecolor{jlugrau}{RGB}{83, 96, 107}
+\definecolor{jlublau}{RGB}{0, 105, 179}
+\definecolor{chaptergrey}{rgb}{0.7,0.7,0.7}
+\definecolor{thmgreen}{RGB}{128,186,36}
+\definecolor{thmgrau}{RGB}{74,92,102}
+\definecolor{thmblau}{RGB}{0,59,209}
+\definecolor{thmbhellblau}{RGB}{64,255,237}
+\definecolor{ptraorange}{RGB}{240, 201, 31}
+
+\newcommand{\thesistitle}{Bachelorarbeit} % Title of the Thesis, change here
+\author{Lorenz Saalmann}
+\newdateformat{monthyeardate}{%
+  \monthname[\THEMONTH], \THEYEAR}
+
+% For Figures and Subfigures
+\usepackage{graphicx, caption, subcaption}
+\usepackage{physics}
+
+% Package to keep images in place
+\usepackage{float}
+
+% Package for enumerate
+\usepackage{enumitem}
+
+
+\addbibresource{reference.bib}
+
+\setcapindent{0pt}
+
+% Page Style
+\pagestyle{fancy}
+% Kopfzeile definieren
+\fancyhead[L]{\leftmark} % Links: Kapitelname
+\fancyhead[R]{\thepage}  % Rechts: Seitenzahl
+\fancyfoot{}
+
+% Line Spacing
+\usepackage{setspace}
+
+% To make uppercase words
+\usepackage{textcase}
+
+% Kapitelnummer mit Punkt formatieren
+\renewcommand{\chapterformat}{\setkomafont{chapter}\chapterfont\bfseries\Huge \textcolor{gray}{\thechapter \enskip \Big|} \enskip}
+
+\usepackage[bookmarks, colorlinks=false, pdfborder={0 0 0}, pdftitle={\thesistitle}, pdfkeywords={}]{hyperref}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1em}
+
+\begin{document}
+
+% To expand the word spacing
+\spaceskip=1.2\fontdimen2\font plus 1.2\fontdimen3\font
+minus 1.2\fontdimen4\font
+
+\input{schmutztitel}
+
+\KOMAoptions{twoside=true}
+\setcounter{page}{1}
+\input{titlepage}
+
+\input{Abstract}
+\cleardoublepage
+
+\tableofcontents
+\cleardoublepage
+
+\listoffigures
+\clearpage
+\listoftables
+\clearpage
+\section*{\Large List of Abbreviations}
+\begin{acronym}
+  \acro{eu}[ADC]{\dotfill Analog to Digital Converter}   
+\end{acronym}
+\cleardoublepage
+
+% Main Content
+\onehalfspacing
+
+\cleardoublepage
+
+\input{Introduction}
+\input{ScientificContext}
+\input{Theory}
+\input{Experiment}
+\input{Results}
+\input{Conclusion}
+
+
+\cleardoublepage
+\renewcommand\bibname{References}
+\phantomsection
+\addcontentsline{toc}{chapter}{References}
+\printbibliography
+\cleardoublepage
+
+\input{Appendix}
+\fontsize{12pt}{12pt}\selectfont
+\clearpage
+\end{document}

@@ -1,0 +1,628 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{hydrocarbons}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=169e91bad3de893d1ca1675ebfe552e2}{%
+           family={al},
+           familyi={a\bibinitperiod},
+           given={André\bibnamedelimb Nyberg\bibnamedelima Borrfors},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim B\bibinitperiod},
+           prefix={et.},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{169e91bad3de893d1ca1675ebfe552e2}
+      \strng{fullhash}{169e91bad3de893d1ca1675ebfe552e2}
+      \strng{fullhashraw}{169e91bad3de893d1ca1675ebfe552e2}
+      \strng{bibnamehash}{169e91bad3de893d1ca1675ebfe552e2}
+      \strng{authorbibnamehash}{169e91bad3de893d1ca1675ebfe552e2}
+      \strng{authornamehash}{169e91bad3de893d1ca1675ebfe552e2}
+      \strng{authorfullhash}{169e91bad3de893d1ca1675ebfe552e2}
+      \strng{authorfullhashraw}{169e91bad3de893d1ca1675ebfe552e2}
+      \field{extraname}{1}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Electric Propulsion}
+      \field{number}{24}
+      \field{title}{Aromatic hydrocarbons as Molecular Propellants for Electric Propulsion Thrusters}
+      \field{volume}{2}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.1007/s44205-023-00059-6
+      \endverb
+    \endentry
+    \entry{Straub}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=533a07499781d3b7a0b798f378796e32}{%
+           family={al},
+           familyi={a\bibinitperiod},
+           given={H.\bibnamedelimi C.\bibnamedelimi Straub},
+           giveni={H\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           prefix={et.},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{533a07499781d3b7a0b798f378796e32}
+      \strng{fullhash}{533a07499781d3b7a0b798f378796e32}
+      \strng{fullhashraw}{533a07499781d3b7a0b798f378796e32}
+      \strng{bibnamehash}{533a07499781d3b7a0b798f378796e32}
+      \strng{authorbibnamehash}{533a07499781d3b7a0b798f378796e32}
+      \strng{authornamehash}{533a07499781d3b7a0b798f378796e32}
+      \strng{authorfullhash}{533a07499781d3b7a0b798f378796e32}
+      \strng{authorfullhashraw}{533a07499781d3b7a0b798f378796e32}
+      \field{extraname}{2}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review A}
+      \field{number}{2}
+      \field{title}{Absolute partial and total cross sections for electron-impact ionization of argon from threshold to 1000 eV}
+      \field{volume}{52}
+      \field{year}{1995}
+      \verb{doi}
+      \verb 10.1103/PhysRevA.52.1115
+      \endverb
+    \endentry
+    \entry{Straub2}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=533a07499781d3b7a0b798f378796e32}{%
+           family={al},
+           familyi={a\bibinitperiod},
+           given={H.\bibnamedelimi C.\bibnamedelimi Straub},
+           giveni={H\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           prefix={et.},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{533a07499781d3b7a0b798f378796e32}
+      \strng{fullhash}{533a07499781d3b7a0b798f378796e32}
+      \strng{fullhashraw}{533a07499781d3b7a0b798f378796e32}
+      \strng{bibnamehash}{533a07499781d3b7a0b798f378796e32}
+      \strng{authorbibnamehash}{533a07499781d3b7a0b798f378796e32}
+      \strng{authornamehash}{533a07499781d3b7a0b798f378796e32}
+      \strng{authorfullhash}{533a07499781d3b7a0b798f378796e32}
+      \strng{authorfullhashraw}{533a07499781d3b7a0b798f378796e32}
+      \field{extraname}{3}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review A}
+      \field{number}{2146}
+      \field{title}{Absolute partial cross sections for electron-impact ionization of H2, N2, and O2 from threshold to 1000 eV}
+      \field{volume}{54}
+      \field{year}{1996}
+      \verb{doi}
+      \verb 10.1103/PhysRevA.54.2146
+      \endverb
+    \endentry
+    \entry{other_method}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=4927604236833b213d5868e0d1da8158}{%
+           family={al},
+           familyi={a\bibinitperiod},
+           given={Robert\bibnamedelimb C.\bibnamedelimi Wetzel},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim W\bibinitperiod},
+           prefix={et.},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{4927604236833b213d5868e0d1da8158}
+      \strng{fullhash}{4927604236833b213d5868e0d1da8158}
+      \strng{fullhashraw}{4927604236833b213d5868e0d1da8158}
+      \strng{bibnamehash}{4927604236833b213d5868e0d1da8158}
+      \strng{authorbibnamehash}{4927604236833b213d5868e0d1da8158}
+      \strng{authornamehash}{4927604236833b213d5868e0d1da8158}
+      \strng{authorfullhash}{4927604236833b213d5868e0d1da8158}
+      \strng{authorfullhashraw}{4927604236833b213d5868e0d1da8158}
+      \field{extraname}{4}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review A}
+      \field{number}{2}
+      \field{title}{Absolute cross sections for electron impact ionization of the rare-gas atoms by the fast-beam method}
+      \field{volume}{35}
+      \field{year}{1987}
+      \verb{doi}
+      \verb 10.1103/PhysRevA.35.559
+      \endverb
+    \endentry
+    \entry{CFD_pic}{misc}{}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeltitlesource}{title}
+      \field{note}{Bildquelle: Edinburgh Instruments}
+      \field{title}{CFD-Prinzip Bild}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.edinst.com/resource/component-close-up-constant-fraction-discrimination.com
+      \endverb
+      \verb{url}
+      \verb https://www.edinst.com/resource/component-close-up-constant-fraction-discrimination.com
+      \endverb
+    \endentry
+    \entry{Ebinger}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{hash=84c9de8e81386a6d3a74f4de0909ac84}{%
+           family={Ebinger},
+           familyi={E\bibinitperiod},
+           given={Benjamin\bibnamedelima Janosch},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {JLU}%
+      }
+      \strng{namehash}{84c9de8e81386a6d3a74f4de0909ac84}
+      \strng{fullhash}{84c9de8e81386a6d3a74f4de0909ac84}
+      \strng{fullhashraw}{84c9de8e81386a6d3a74f4de0909ac84}
+      \strng{bibnamehash}{84c9de8e81386a6d3a74f4de0909ac84}
+      \strng{authorbibnamehash}{84c9de8e81386a6d3a74f4de0909ac84}
+      \strng{authornamehash}{84c9de8e81386a6d3a74f4de0909ac84}
+      \strng{authorfullhash}{84c9de8e81386a6d3a74f4de0909ac84}
+      \strng{authorfullhashraw}{84c9de8e81386a6d3a74f4de0909ac84}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Messung von Wirkungsquerschnitten der Elektronenstoßionisation von Xenonionen mit einer neuen Hochleistungselektronenkanone}
+      \field{type}{phdthesis}
+      \field{year}{2020}
+      \field{pages}{16\bibrangedash 28}
+      \range{pages}{13}
+    \endentry
+    \entry{MCP}{patent}{}{}
+      \name{author}{2}{}{%
+        {{hash=732e66e094b1caadbbb7eb43d83afc97}{%
+           family={Faris},
+           familyi={F\bibinitperiod},
+           given={Sadeg\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=96662e9083eed138fe6192a4885cc201}{%
+           family={Jain},
+           familyi={J\bibinitperiod},
+           given={Kanti},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{57dba44996b2d1528e4f41f15a1a55fe}
+      \strng{fullhash}{57dba44996b2d1528e4f41f15a1a55fe}
+      \strng{fullhashraw}{57dba44996b2d1528e4f41f15a1a55fe}
+      \strng{bibnamehash}{57dba44996b2d1528e4f41f15a1a55fe}
+      \strng{authorbibnamehash}{57dba44996b2d1528e4f41f15a1a55fe}
+      \strng{authornamehash}{57dba44996b2d1528e4f41f15a1a55fe}
+      \strng{authorfullhash}{57dba44996b2d1528e4f41f15a1a55fe}
+      \strng{authorfullhashraw}{57dba44996b2d1528e4f41f15a1a55fe}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{10}
+      \field{number}{US5565729A}
+      \field{title}{Microchannel plate technology}
+      \field{year}{1996}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Prop}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=d64d1ab6e956e774d0ca9b5baafdd470}{%
+           family={Fazio},
+           familyi={F\bibinitperiod},
+           given={Nazareno},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f355887658ebf66fef51b97d13e73189}{%
+           family={Gabriel},
+           familyi={G\bibinitperiod},
+           given={Steve\bibnamedelima B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=bc0db9f4823baf0a09991f60316c1dfb}{%
+           family={Golosnoy},
+           familyi={G\bibinitperiod},
+           given={Igor\bibnamedelima O.},
+           giveni={I\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Southampton}%
+      }
+      \strng{namehash}{5867a2eddc0e0bd7556411d58584bca1}
+      \strng{fullhash}{5867a2eddc0e0bd7556411d58584bca1}
+      \strng{fullhashraw}{5867a2eddc0e0bd7556411d58584bca1}
+      \strng{bibnamehash}{5867a2eddc0e0bd7556411d58584bca1}
+      \strng{authorbibnamehash}{5867a2eddc0e0bd7556411d58584bca1}
+      \strng{authornamehash}{5867a2eddc0e0bd7556411d58584bca1}
+      \strng{authorfullhash}{5867a2eddc0e0bd7556411d58584bca1}
+      \strng{authorfullhashraw}{5867a2eddc0e0bd7556411d58584bca1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Alternative propellants for gridded ion engines}
+      \field{year}{2018}
+      \field{pages}{1\bibrangedash 2}
+      \range{pages}{2}
+    \endentry
+    \entry{ion}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=8716f60143484ff48da213d42d2f5b96}{%
+           family={Holste},
+           familyi={H\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=9003b561185a1f6669e42d8d3bab859a}{%
+           family={Dietz},
+           familyi={D\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=76028595e2582dabc6fc6e1de478004f}{%
+           family={Scharmann},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5cc12f069afe4cb6c0e5203019c7aa25}{%
+           family={Keil},
+           familyi={K\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=c67068c84d61c44e88a3f6bafa596be1}{%
+           family={Henning},
+           familyi={H\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{e0db525e5f62184377f2d82cbd501faf}
+      \strng{fullhash}{bb472aa058d3b301502b1d8d6d49a52d}
+      \strng{fullhashraw}{bb472aa058d3b301502b1d8d6d49a52d}
+      \strng{bibnamehash}{e0db525e5f62184377f2d82cbd501faf}
+      \strng{authorbibnamehash}{e0db525e5f62184377f2d82cbd501faf}
+      \strng{authornamehash}{e0db525e5f62184377f2d82cbd501faf}
+      \strng{authorfullhash}{bb472aa058d3b301502b1d8d6d49a52d}
+      \strng{authorfullhashraw}{bb472aa058d3b301502b1d8d6d49a52d}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Review of Scientific Instruments}
+      \field{title}{Ion thrusters for electric propulsion: Scientific issues developing a niche technology into a game changer}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1063/5.0010134
+      \endverb
+    \endentry
+    \entry{Detektorsystem}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=f2ff49732eb99df5345a8245ef8095da}{%
+           family={Jagutzki},
+           familyi={J\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+        {{hash=5ea9c1d90b72c9b88a12c7c32cde2131}{%
+           family={Mergel},
+           familyi={M\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{72d9e5442f725e7b82d63e324a34d8da}
+      \strng{fullhash}{72d9e5442f725e7b82d63e324a34d8da}
+      \strng{fullhashraw}{72d9e5442f725e7b82d63e324a34d8da}
+      \strng{bibnamehash}{72d9e5442f725e7b82d63e324a34d8da}
+      \strng{authorbibnamehash}{72d9e5442f725e7b82d63e324a34d8da}
+      \strng{authornamehash}{72d9e5442f725e7b82d63e324a34d8da}
+      \strng{authorfullhash}{72d9e5442f725e7b82d63e324a34d8da}
+      \strng{authorfullhashraw}{72d9e5442f725e7b82d63e324a34d8da}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment}
+      \field{number}{244–249}
+      \field{title}{A broad-application microchannel-plate detector system for advanced particle or photon detection tasks: large area imaging, precise multi-hit timing information and high detection rate}
+      \field{volume}{477}
+      \field{year}{2002}
+      \verb{doi}
+      \verb 10.1016/S0168-9002(01)01839-3
+      \endverb
+    \endentry
+    \entry{CFD}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=b86c8be1b6c46f7d4c8b0c6956236e75}{%
+           family={Lakowicz},
+           familyi={L\bibinitperiod},
+           given={Joseph\bibnamedelima R},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{b86c8be1b6c46f7d4c8b0c6956236e75}
+      \strng{fullhash}{b86c8be1b6c46f7d4c8b0c6956236e75}
+      \strng{fullhashraw}{b86c8be1b6c46f7d4c8b0c6956236e75}
+      \strng{bibnamehash}{b86c8be1b6c46f7d4c8b0c6956236e75}
+      \strng{authorbibnamehash}{b86c8be1b6c46f7d4c8b0c6956236e75}
+      \strng{authornamehash}{b86c8be1b6c46f7d4c8b0c6956236e75}
+      \strng{authorfullhash}{b86c8be1b6c46f7d4c8b0c6956236e75}
+      \strng{authorfullhashraw}{b86c8be1b6c46f7d4c8b0c6956236e75}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Principles of Fluorescence Spectroscopy}
+      \field{year}{2006}
+      \verb{doi}
+      \verb 10.1007/978-0-387-46312-4
+      \endverb
+    \endentry
+    \entry{Lotz}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=b397a264c1e71da885107a8dca56211d}{%
+           family={Lotz},
+           familyi={L\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b397a264c1e71da885107a8dca56211d}
+      \strng{fullhash}{b397a264c1e71da885107a8dca56211d}
+      \strng{fullhashraw}{b397a264c1e71da885107a8dca56211d}
+      \strng{bibnamehash}{b397a264c1e71da885107a8dca56211d}
+      \strng{authorbibnamehash}{b397a264c1e71da885107a8dca56211d}
+      \strng{authornamehash}{b397a264c1e71da885107a8dca56211d}
+      \strng{authorfullhash}{b397a264c1e71da885107a8dca56211d}
+      \strng{authorfullhashraw}{b397a264c1e71da885107a8dca56211d}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Zeitschrift für Physik}
+      \field{number}{2}
+      \field{title}{An empirical formula for the electron-impact ionization crosssection.}
+      \field{volume}{206}
+      \field{year}{1967}
+      \field{pages}{207\bibrangedash 210}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1007/BF01325928
+      \endverb
+    \endentry
+    \entry{EITOFMS}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=264edcd3d92bf7a491ba26944e746911}{%
+           family={Mirsaleh-Kohan},
+           familyi={M\bibinithyphendelim K\bibinitperiod},
+           given={Nasrin},
+           giveni={N\bibinitperiod}}}%
+        {{hash=0c035d869b2881f904821a8255cfb169}{%
+           family={Robertson},
+           familyi={R\bibinitperiod},
+           given={Wesley\bibnamedelima D.},
+           giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=62cf25640fc36ad396ddef36c0a0648c}{%
+           family={Compton},
+           familyi={C\bibinitperiod},
+           given={Robert\bibnamedelima N.},
+           giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \strng{namehash}{2e66fc33a2db62fd8df1c4c9b998e3d1}
+      \strng{fullhash}{2e66fc33a2db62fd8df1c4c9b998e3d1}
+      \strng{fullhashraw}{2e66fc33a2db62fd8df1c4c9b998e3d1}
+      \strng{bibnamehash}{2e66fc33a2db62fd8df1c4c9b998e3d1}
+      \strng{authorbibnamehash}{2e66fc33a2db62fd8df1c4c9b998e3d1}
+      \strng{authornamehash}{2e66fc33a2db62fd8df1c4c9b998e3d1}
+      \strng{authorfullhash}{2e66fc33a2db62fd8df1c4c9b998e3d1}
+      \strng{authorfullhashraw}{2e66fc33a2db62fd8df1c4c9b998e3d1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mass Spectrom.}
+      \field{number}{237-285}
+      \field{title}{Electron ionization time-of-flight mass spectrometry: Historical review and current applications}
+      \field{volume}{27}
+      \field{year}{2008}
+      \verb{doi}
+      \verb 10.1002/mas.20162
+      \endverb
+    \endentry
+    \entry{diamondoids}{proceedings}{}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{title}{Patrick Dietz, Kristof Holste et. al. Status report of diamondoids as alternative propellants for ion-thrusters (IEPC-2017-198)}
+      \field{year}{2017}
+    \endentry
+    \entry{Iodine}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=784fd64f7bd1c1cc2dc46b4c52d74d64}{%
+           family={Rafalskyi},
+           familyi={R\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=66a47c548889cb360069fd38711533b4}{%
+           family={Martínez},
+           familyi={M\bibinitperiod},
+           given={J.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=4483c877b9f71dcf089852d26f11452e}{%
+           family={al},
+           familyi={a\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           prefix={et.},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{e7f31cc477af6654a32a527628cc7555}
+      \strng{fullhash}{e7f31cc477af6654a32a527628cc7555}
+      \strng{fullhashraw}{e7f31cc477af6654a32a527628cc7555}
+      \strng{bibnamehash}{e7f31cc477af6654a32a527628cc7555}
+      \strng{authorbibnamehash}{e7f31cc477af6654a32a527628cc7555}
+      \strng{authornamehash}{e7f31cc477af6654a32a527628cc7555}
+      \strng{authorfullhash}{e7f31cc477af6654a32a527628cc7555}
+      \strng{authorfullhashraw}{e7f31cc477af6654a32a527628cc7555}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{number}{599}
+      \field{title}{In-orbit demonstration of an iodine electric propulsion system}
+      \field{volume}{411–415}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1038/s41586-021-04015-y
+      \endverb
+    \endentry
+    \entry{SIMION}{report}{}{}
+      \list{institution}{1}{%
+        {Adaptas Solutions, LLC}%
+      }
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{title}{SIMION 2024 Supplemental Documentation}
+      \field{type}{techreport}
+      \field{year}{2004}
+    \endentry
+    \entry{DETOF}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=41bb8bdb653ef6e099be0da456890de3}{%
+           family={Wiley},
+           familyi={W\bibinitperiod},
+           given={W.\bibnamedelimi C.},
+           giveni={W\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=2a539bd31a4d5da9122b351a07068a47}{%
+           family={McLaren},
+           familyi={M\bibinitperiod},
+           given={I.\bibnamedelimi H.},
+           giveni={I\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{79459899dc4ca256d00d0cdffbc2498b}
+      \strng{fullhash}{79459899dc4ca256d00d0cdffbc2498b}
+      \strng{fullhashraw}{79459899dc4ca256d00d0cdffbc2498b}
+      \strng{bibnamehash}{79459899dc4ca256d00d0cdffbc2498b}
+      \strng{authorbibnamehash}{79459899dc4ca256d00d0cdffbc2498b}
+      \strng{authornamehash}{79459899dc4ca256d00d0cdffbc2498b}
+      \strng{authorfullhash}{79459899dc4ca256d00d0cdffbc2498b}
+      \strng{authorfullhashraw}{79459899dc4ca256d00d0cdffbc2498b}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Review of Scientific Instruments}
+      \field{number}{12}
+      \field{title}{Time-of-Flight Mass Spectrometer with Improved Resolution}
+      \field{volume}{26}
+      \field{year}{1955}
+      \verb{doi}
+      \verb 10.1063/1.1715212
+      \endverb
+    \endentry
+    \entry{CO2}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=89a68ab9fd7ca8618aead83f9c1e9767}{%
+           family={Wirtschaft\bibnamedelimb und\bibnamedelima Ausfuhrkontrolle},
+           familyi={W\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Bundesamt},
+           giveni={B\bibinitperiod},
+           prefix={für},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \strng{namehash}{89a68ab9fd7ca8618aead83f9c1e9767}
+      \strng{fullhash}{89a68ab9fd7ca8618aead83f9c1e9767}
+      \strng{fullhashraw}{89a68ab9fd7ca8618aead83f9c1e9767}
+      \strng{bibnamehash}{89a68ab9fd7ca8618aead83f9c1e9767}
+      \strng{authorbibnamehash}{89a68ab9fd7ca8618aead83f9c1e9767}
+      \strng{authornamehash}{89a68ab9fd7ca8618aead83f9c1e9767}
+      \strng{authorfullhash}{89a68ab9fd7ca8618aead83f9c1e9767}
+      \strng{authorfullhashraw}{89a68ab9fd7ca8618aead83f9c1e9767}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Informationsblatt CO2-Faktoren}
+      \field{year}{2024}
+    \endentry
+    \entry{Xenon}{misc}{}{}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{labeltitlesource}{title}
+      \field{note}{Quelle: Royal Society of Chemistry}
+      \field{title}{Xenon}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://periodic-table.rsc.org/element/54/Xenon
+      \endverb
+      \verb{url}
+      \verb https://periodic-table.rsc.org/element/54/Xenon
+      \endverb
+    \endentry
+    \entry{EII}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=c8b7526f6f35da7b4b0100523550dfd3}{%
+           family={Younger},
+           familyi={Y\bibinitperiod},
+           given={S.\bibnamedelimi M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=aa189d28255c43c78e5e201fa3f1c1c9}{%
+           family={Teubner},
+           familyi={T\bibinitperiod},
+           given={P.\bibnamedelimi J.\bibnamedelimi O.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=6507adce23a40317903add05a3b1ee8a}{%
+           family={Märk},
+           familyi={M\bibinitperiod},
+           given={T.\bibnamedelimi D.},
+           giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=743d4d36789a66fccb0cfff53020007a}{%
+           family={Dunn},
+           familyi={D\bibinitperiod},
+           given={G.\bibnamedelimi H.},
+           giveni={G\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag Wien}%
+      }
+      \strng{namehash}{861cc48a68a06295e0ed7e89071865d5}
+      \strng{fullhash}{861cc48a68a06295e0ed7e89071865d5}
+      \strng{fullhashraw}{861cc48a68a06295e0ed7e89071865d5}
+      \strng{bibnamehash}{861cc48a68a06295e0ed7e89071865d5}
+      \strng{authorbibnamehash}{861cc48a68a06295e0ed7e89071865d5}
+      \strng{authornamehash}{861cc48a68a06295e0ed7e89071865d5}
+      \strng{authorfullhash}{861cc48a68a06295e0ed7e89071865d5}
+      \strng{authorfullhashraw}{861cc48a68a06295e0ed7e89071865d5}
+      \strng{editorbibnamehash}{6949d39bf235fb1529eaddfcc266a3d6}
+      \strng{editornamehash}{6949d39bf235fb1529eaddfcc266a3d6}
+      \strng{editorfullhash}{6949d39bf235fb1529eaddfcc266a3d6}
+      \strng{editorfullhashraw}{6949d39bf235fb1529eaddfcc266a3d6}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Electron Impact Ionisation}
+      \field{year}{1985}
+      \verb{doi}
+      \verb 10.1007/978-3-7091-4028-4
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
