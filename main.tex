@@ -1,10 +1,10 @@
-\documentclass[fontsize=11pt,%
-twoside,
-BCOR          = 8mm]{scrreprt}
+\documentclass[fontsize=11pt]{scrreprt}
+\usepackage[stable]{footmisc}
 \usepackage{xr}
 \usepackage[utf8]{inputenc}
 \usepackage{booktabs}
 \usepackage{adjustbox}
+\usepackage{siunitx}
 \usepackage{makecell}
 \usepackage[english]{babel}
 \usepackage{rotating}
@@ -31,7 +31,7 @@ BCOR          = 8mm]{scrreprt}
 \usepackage{datetime}
 \usepackage{tabu}
 \usepackage{fancyhdr}
-\geometry{a4paper, tmargin=1in, rmargin=1in, bmargin=1in, lmargin=1in}
+\geometry{a4paper}
 \usepackage[backend=biber]{biblatex}
 
 \definecolor{jluhellblau}{RGB}{220, 230, 235}
@@ -93,7 +93,6 @@ minus 1.2\fontdimen4\font
 
 \input{schmutztitel}
 
-\KOMAoptions{twoside=true}
 \setcounter{page}{1}
 \input{titlepage}
 
@@ -104,12 +103,13 @@ minus 1.2\fontdimen4\font
 \cleardoublepage
 
 \listoffigures
-\clearpage
 \listoftables
-\clearpage
-\section*{\Large List of Abbreviations}
+\section*{\huge List of Abbreviations}
 \begin{acronym}
-  \acro{eu}[ADC]{\dotfill Analog to Digital Converter}   
+  \acro{eu}[APP]{\dotfill Atmospheric Pressure Plasma}   
+  \acro{eu}[C. Sphaerospermum]{\dotfill Cladosporium Sphaerospermum}   
+  \acro{eu}[DBD]{\dotfill Dielectric Barrier Discharge}
+  \acro{eu}[OES]{\dotfill Optical Emission Spectroscopy}
 \end{acronym}
 \cleardoublepage
 

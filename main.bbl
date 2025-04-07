@@ -19,6 +19,35 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global/global}
+    \entry{growth}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=c6c3a5c93854126bba60497705d6425a}{%
+           family={Barakai-Golan},
+           familyi={B\bibinithyphendelim G\bibinitperiod},
+           given={Rivka},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Science}%
+      }
+      \strng{namehash}{c6c3a5c93854126bba60497705d6425a}
+      \strng{fullhash}{c6c3a5c93854126bba60497705d6425a}
+      \strng{fullhashraw}{c6c3a5c93854126bba60497705d6425a}
+      \strng{bibnamehash}{c6c3a5c93854126bba60497705d6425a}
+      \strng{authorbibnamehash}{c6c3a5c93854126bba60497705d6425a}
+      \strng{authornamehash}{c6c3a5c93854126bba60497705d6425a}
+      \strng{authorfullhash}{c6c3a5c93854126bba60497705d6425a}
+      \strng{authorfullhashraw}{c6c3a5c93854126bba60497705d6425a}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Postharvest Diseases of Fruits and Vegetables}
+      \field{year}{2001}
+      \verb{doi}
+      \verb 10.1016/B978-0-444-50584-2.X5000-X
+      \endverb
+    \endentry
     \entry{mould}{article}{}{}
       \true{moreauthor}
       \true{morelabelname}
