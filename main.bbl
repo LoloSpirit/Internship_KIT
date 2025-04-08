@@ -48,6 +48,74 @@
       \verb 10.1016/B978-0-444-50584-2.X5000-X
       \endverb
     \endentry
+    \entry{radiation}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=c136fa4e51bc308c4de84c2262e2bf9f}{%
+           family={Dadachova},
+           familyi={D\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=a405b5ed1e7c8d53653d491ec5f236ab}{%
+           family={Casadevall},
+           familyi={C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{7b9189d0564bbe93ba950d58a876ddff}
+      \strng{fullhash}{7b9189d0564bbe93ba950d58a876ddff}
+      \strng{fullhashraw}{7b9189d0564bbe93ba950d58a876ddff}
+      \strng{bibnamehash}{7b9189d0564bbe93ba950d58a876ddff}
+      \strng{authorbibnamehash}{7b9189d0564bbe93ba950d58a876ddff}
+      \strng{authornamehash}{7b9189d0564bbe93ba950d58a876ddff}
+      \strng{authorfullhash}{7b9189d0564bbe93ba950d58a876ddff}
+      \strng{authorfullhashraw}{7b9189d0564bbe93ba950d58a876ddff}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Curr Opin Microbiol.}
+      \field{number}{1}
+      \field{title}{Ionizing Radiation: how fungi cope, adapt, and exploit with the help of melanin}
+      \field{volume}{11}
+      \field{year}{2008}
+      \verb{doi}
+      \verb 10.1016/j.mib.2008.09.013
+      \endverb
+    \endentry
+    \entry{iss}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=e5c43d074614218653a592a1e245d902}{%
+           family={Nils\bibnamedelimb J.\bibnamedelimi H.\bibnamedelimi Averesch},
+           familyi={N\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Graham\bibnamedelimb K.\bibnamedelimi Shunk},
+           giveni={G\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=cb10d3e580dacf8bda6d5d7c3539f69d}{%
+           family={Kern},
+           familyi={K\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{b2796fa1f4d526bd4fd81f1467f8ff9b}
+      \strng{fullhash}{b2796fa1f4d526bd4fd81f1467f8ff9b}
+      \strng{fullhashraw}{b2796fa1f4d526bd4fd81f1467f8ff9b}
+      \strng{bibnamehash}{b2796fa1f4d526bd4fd81f1467f8ff9b}
+      \strng{authorbibnamehash}{b2796fa1f4d526bd4fd81f1467f8ff9b}
+      \strng{authornamehash}{b2796fa1f4d526bd4fd81f1467f8ff9b}
+      \strng{authorfullhash}{b2796fa1f4d526bd4fd81f1467f8ff9b}
+      \strng{authorfullhashraw}{b2796fa1f4d526bd4fd81f1467f8ff9b}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Microbiology}
+      \field{number}{877625}
+      \field{title}{Cultivation of the Dematiaceous Fungus Cladosporium sphaerospermum Aboard the International Space Station and Effects of Ionizing Radiation}
+      \field{volume}{13}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.3389/fmicb.2022.877625
+      \endverb
+    \endentry
     \entry{mould}{article}{}{}
       \true{moreauthor}
       \true{morelabelname}
