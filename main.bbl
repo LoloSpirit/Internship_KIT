@@ -48,6 +48,72 @@
       \verb 10.1016/B978-0-444-50584-2.X5000-X
       \endverb
     \endentry
+    \entry{plasma2}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=c135404ba4fa37010d1f43f200331c1a}{%
+           family={Chabert},
+           familyi={C\bibinitperiod},
+           given={Pascal},
+           giveni={P\bibinitperiod}}}%
+        {{hash=fea15330d56fed039aa3a241983f491f}{%
+           family={Braithwaite},
+           familyi={B\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{2854e0a975d5f29279030df4a8155b2e}
+      \strng{fullhash}{2854e0a975d5f29279030df4a8155b2e}
+      \strng{fullhashraw}{2854e0a975d5f29279030df4a8155b2e}
+      \strng{bibnamehash}{2854e0a975d5f29279030df4a8155b2e}
+      \strng{authorbibnamehash}{2854e0a975d5f29279030df4a8155b2e}
+      \strng{authornamehash}{2854e0a975d5f29279030df4a8155b2e}
+      \strng{authorfullhash}{2854e0a975d5f29279030df4a8155b2e}
+      \strng{authorfullhashraw}{2854e0a975d5f29279030df4a8155b2e}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780511974342}
+      \field{title}{Physics of Radio-Frequency Plasmas}
+      \field{year}{2011}
+    \endentry
+    \entry{plasma}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=a5b8b2e287cbcd596b1a245e40c69dd9}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Francis\bibnamedelima F.},
+           giveni={F\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer Cham}%
+      }
+      \strng{namehash}{a5b8b2e287cbcd596b1a245e40c69dd9}
+      \strng{fullhash}{a5b8b2e287cbcd596b1a245e40c69dd9}
+      \strng{fullhashraw}{a5b8b2e287cbcd596b1a245e40c69dd9}
+      \strng{bibnamehash}{a5b8b2e287cbcd596b1a245e40c69dd9}
+      \strng{authorbibnamehash}{a5b8b2e287cbcd596b1a245e40c69dd9}
+      \strng{authornamehash}{a5b8b2e287cbcd596b1a245e40c69dd9}
+      \strng{authorfullhash}{a5b8b2e287cbcd596b1a245e40c69dd9}
+      \strng{authorfullhashraw}{a5b8b2e287cbcd596b1a245e40c69dd9}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{isbn}{978-3-319-22308-7}
+      \field{title}{Introduction to Plasma Physics and Controlled Fusion}
+      \field{year}{2016}
+    \endentry
     \entry{radiation}{article}{}{}
       \name{author}{2}{}{%
         {{hash=c136fa4e51bc308c4de84c2262e2bf9f}{%
@@ -81,6 +147,197 @@
       \verb{doi}
       \verb 10.1016/j.mib.2008.09.013
       \endverb
+    \endentry
+    \entry{app_study}{article}{}{}
+      \name{author}{9}{}{%
+        {{hash=1443ad0865717456afd23699f1d10a08}{%
+           family={Klämpfl},
+           familyi={K\bibinitperiod},
+           given={Tobias\bibnamedelima G.},
+           giveni={T\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=9477484c3ac86d874ffb609312bd3bd6}{%
+           family={Isbary},
+           familyi={I\bibinitperiod},
+           given={Georg},
+           giveni={G\bibinitperiod}}}%
+        {{hash=8feba3e9e5e6379f8a91ac4dc83c5d8a}{%
+           family={Shimizu},
+           familyi={S\bibinitperiod},
+           given={Tetsuji},
+           giveni={T\bibinitperiod}}}%
+        {{hash=3d7610f0e256c40ae33f5a68cf068b8d}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Yang-Fang},
+           giveni={Y\bibinithyphendelim F\bibinitperiod}}}%
+        {{hash=e14b290cebf42c4e14420af4cf25ab0d}{%
+           family={Zimmermann},
+           familyi={Z\bibinitperiod},
+           given={Julia\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=efe2a80e1048964fe694c83285b71e12}{%
+           family={Stolz},
+           familyi={S\bibinitperiod},
+           given={Wilhelm},
+           giveni={W\bibinitperiod}}}%
+        {{hash=df197620887287ff28e66af64a276b94}{%
+           family={Schlegel},
+           familyi={S\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod}}}%
+        {{hash=50988bc09e78c8211f88aaa0998ef72d}{%
+           family={Morfill},
+           familyi={M\bibinitperiod},
+           given={Gregor\bibnamedelima E.},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=854730cbdeebc44b012631827e51c1fc}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Hans-Ulrich},
+           giveni={H\bibinithyphendelim U\bibinitperiod}}}%
+      }
+      \strng{namehash}{2d79ac4731f7cdc63b127499f251b10b}
+      \strng{fullhash}{5388f9102b45331f04fabc80ee412883}
+      \strng{fullhashraw}{5388f9102b45331f04fabc80ee412883}
+      \strng{bibnamehash}{2d79ac4731f7cdc63b127499f251b10b}
+      \strng{authorbibnamehash}{2d79ac4731f7cdc63b127499f251b10b}
+      \strng{authornamehash}{2d79ac4731f7cdc63b127499f251b10b}
+      \strng{authorfullhash}{5388f9102b45331f04fabc80ee412883}
+      \strng{authorfullhashraw}{5388f9102b45331f04fabc80ee412883}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied and Environmental Microbiology}
+      \field{number}{15}
+      \field{title}{Cold Atmospheric Air Plasma Sterilization against Spores and Other Microorganisms of Clinical Interest}
+      \field{volume}{78}
+      \field{year}{2012}
+      \field{pages}{5077\bibrangedash 5082}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1128/AEM.00583-12
+      \endverb
+    \endentry
+    \entry{laroussi}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=8cead4269886f58a51c666ed5978b803}{%
+           family={Laroussi},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{8cead4269886f58a51c666ed5978b803}
+      \strng{fullhash}{8cead4269886f58a51c666ed5978b803}
+      \strng{fullhashraw}{8cead4269886f58a51c666ed5978b803}
+      \strng{bibnamehash}{8cead4269886f58a51c666ed5978b803}
+      \strng{authorbibnamehash}{8cead4269886f58a51c666ed5978b803}
+      \strng{authornamehash}{8cead4269886f58a51c666ed5978b803}
+      \strng{authorfullhash}{8cead4269886f58a51c666ed5978b803}
+      \strng{authorfullhashraw}{8cead4269886f58a51c666ed5978b803}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Plasma Science}
+      \field{number}{3}
+      \field{title}{Sterilization of Contaminated Matter with an Atmospheric Pressure Plasma}
+      \field{volume}{24}
+      \field{year}{1996}
+      \verb{doi}
+      \verb 10.1109/27.533129
+      \endverb
+    \endentry
+    \entry{bacteria}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=66d548e0e670e107fc4a80dc0c3825b3}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{2f060ecac11058276f5d0b5a813eee70}
+      \strng{fullhash}{2f060ecac11058276f5d0b5a813eee70}
+      \strng{fullhashraw}{2f060ecac11058276f5d0b5a813eee70}
+      \strng{bibnamehash}{2f060ecac11058276f5d0b5a813eee70}
+      \strng{authorbibnamehash}{2f060ecac11058276f5d0b5a813eee70}
+      \strng{authornamehash}{2f060ecac11058276f5d0b5a813eee70}
+      \strng{authorfullhash}{2f060ecac11058276f5d0b5a813eee70}
+      \strng{authorfullhashraw}{2f060ecac11058276f5d0b5a813eee70}
+      \field{extraname}{1}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Plasma Sources Science and Technology}
+      \field{number}{2}
+      \field{title}{The biological effect of the physical energy of plasma}
+      \field{volume}{33}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.1088/1361-6595/ad29bf
+      \endverb
+    \endentry
+    \entry{wound}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=b500ac81ccc7615076371a146a6656fd}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Yiqian},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{e4a656e1701f1e258d8c85b473f292df}
+      \strng{fullhash}{e4a656e1701f1e258d8c85b473f292df}
+      \strng{fullhashraw}{e4a656e1701f1e258d8c85b473f292df}
+      \strng{bibnamehash}{e4a656e1701f1e258d8c85b473f292df}
+      \strng{authorbibnamehash}{e4a656e1701f1e258d8c85b473f292df}
+      \strng{authornamehash}{e4a656e1701f1e258d8c85b473f292df}
+      \strng{authorfullhash}{e4a656e1701f1e258d8c85b473f292df}
+      \strng{authorfullhashraw}{e4a656e1701f1e258d8c85b473f292df}
+      \field{extraname}{2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BioMed Research International}
+      \field{note}{Published 30 November 2022}
+      \field{title}{The Effect of Plasma on Bacteria and Normal Cells in Infected Wound}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.1155/2022/4592081
+      \endverb
+    \endentry
+    \entry{history}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=a19debe0cccb5cc8b35c1d3c030e2c03}{%
+           family={Napp},
+           familyi={N\bibinitperiod},
+           given={Judith},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{714e8b43eeca2d06eecee1e1220724c7}
+      \strng{fullhash}{714e8b43eeca2d06eecee1e1220724c7}
+      \strng{fullhashraw}{714e8b43eeca2d06eecee1e1220724c7}
+      \strng{bibnamehash}{714e8b43eeca2d06eecee1e1220724c7}
+      \strng{authorbibnamehash}{714e8b43eeca2d06eecee1e1220724c7}
+      \strng{authornamehash}{714e8b43eeca2d06eecee1e1220724c7}
+      \strng{authorfullhash}{714e8b43eeca2d06eecee1e1220724c7}
+      \strng{authorfullhashraw}{714e8b43eeca2d06eecee1e1220724c7}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2196-5226}
+      \field{journaltitle}{GMS Hygiene and Infection Control}
+      \field{title}{On the history of plasma treatment and comparison of microbiostatic efficacy of a historical high-frequency plasma device with two modern devices}
+      \field{volume}{10}
+      \field{year}{2015}
     \endentry
     \entry{iss}{article}{}{}
       \name{author}{2}{}{%
@@ -116,6 +373,49 @@
       \verb 10.3389/fmicb.2022.877625
       \endverb
     \endentry
+    \entry{kit}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{hash=990780d00aab8c0df6480e4ccff28143}{%
+           family={Ohara},
+           familyi={O\bibinitperiod},
+           given={Tomoya},
+           giveni={T\bibinitperiod}}}%
+        {{hash=dbbcf9799dc07c7b47171da246b5b101}{%
+           family={Kinoshita},
+           familyi={K\bibinitperiod},
+           given={Shinano},
+           giveni={S\bibinitperiod}}}%
+        {{hash=46b0a80b33c2fce0726adc70bb6165c0}{%
+           family={Takahashi},
+           familyi={T\bibinitperiod},
+           given={Kazuo},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Brno, Czech Republic}%
+      }
+      \list{organization}{2}{%
+        {Europhysics Conference on Atomic}%
+        {Molecular Physics of Ionized Gases}%
+      }
+      \strng{namehash}{d2144c3a13333702229a19463bff6d39}
+      \strng{fullhash}{d2144c3a13333702229a19463bff6d39}
+      \strng{fullhashraw}{d2144c3a13333702229a19463bff6d39}
+      \strng{bibnamehash}{d2144c3a13333702229a19463bff6d39}
+      \strng{authorbibnamehash}{d2144c3a13333702229a19463bff6d39}
+      \strng{authornamehash}{d2144c3a13333702229a19463bff6d39}
+      \strng{authorfullhash}{d2144c3a13333702229a19463bff6d39}
+      \strng{authorfullhashraw}{d2144c3a13333702229a19463bff6d39}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 26th Europhysics Conference on Atomic and Molecular Physics of Ionized Gases (ESCAMPIG XXVI)}
+      \field{month}{7}
+      \field{note}{Topic number: 10}
+      \field{title}{Inactivating \textit{C.~sphaerospermum} and its Mechanism in Atmospheric Pressure Plasmas with Water Mist}
+      \field{year}{2024}
+    \endentry
     \entry{mould}{article}{}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -141,8 +441,70 @@
       \field{journaltitle}{Studies in Mycology}
       \field{title}{Phylogeny and ecology of the ubiquitous saprobe Cladosporium sphaerospermum, with descriptions of seven new species from hypersaline environments}
       \field{volume}{58}
+      \field{year}{2007}
       \verb{doi}
       \verb 10.3114/sim.2007.58.06
+      \endverb
+    \endentry
+    \entry{inactivation}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=e8a0a7039578b34a5585232915f0e778}{%
+           family={Shintani},
+           familyi={S\bibinitperiod},
+           given={Hideharu},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{a738b1344ea2628c25779aa91928ed25}
+      \strng{fullhash}{a738b1344ea2628c25779aa91928ed25}
+      \strng{fullhashraw}{a738b1344ea2628c25779aa91928ed25}
+      \strng{bibnamehash}{a738b1344ea2628c25779aa91928ed25}
+      \strng{authorbibnamehash}{a738b1344ea2628c25779aa91928ed25}
+      \strng{authornamehash}{a738b1344ea2628c25779aa91928ed25}
+      \strng{authorfullhash}{a738b1344ea2628c25779aa91928ed25}
+      \strng{authorfullhashraw}{a738b1344ea2628c25779aa91928ed25}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biocontrol Science}
+      \field{number}{4}
+      \field{title}{Inactivation of Microorganisms and Endotoxins by Low Temperature Nitrogen Gas Plasma Exposure}
+      \field{volume}{12}
+      \field{year}{2007}
+      \verb{doi}
+      \verb 10.4265/bio.12.131
+      \endverb
+    \endentry
+    \entry{morphology}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=c311d6a20bb4959788fc581b2180fb4b}{%
+           family={Yew},
+           familyi={Y\bibinitperiod},
+           given={Su\bibnamedelima Mei},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{f468b370c729bd23abbad33ab22361d9}
+      \strng{fullhash}{f468b370c729bd23abbad33ab22361d9}
+      \strng{fullhashraw}{f468b370c729bd23abbad33ab22361d9}
+      \strng{bibnamehash}{f468b370c729bd23abbad33ab22361d9}
+      \strng{authorbibnamehash}{f468b370c729bd23abbad33ab22361d9}
+      \strng{authornamehash}{f468b370c729bd23abbad33ab22361d9}
+      \strng{authorfullhash}{f468b370c729bd23abbad33ab22361d9}
+      \strng{authorfullhashraw}{f468b370c729bd23abbad33ab22361d9}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{title}{Insight into different environmental niches adaptation and allergenicity from the \textit{Cladosporium sphaerospermum} genome, a common human allergy-eliciting Dothideomycetes}
+      \field{volume}{6}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.1038/srep27008
       \endverb
     \endentry
   \enddatalist
