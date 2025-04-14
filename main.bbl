@@ -311,6 +311,48 @@
       \verb 10.1155/2022/4592081
       \endverb
     \endentry
+    \entry{DNA}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=eccc8dc63adeccfdb81db714e12b7a28}{%
+           family={Markovitsi},
+           familyi={M\bibinitperiod},
+           given={Dimitra},
+           giveni={D\bibinitperiod}}}%
+        {{hash=34075e99f3e6f475f3b06e310344df57}{%
+           family={Sage},
+           familyi={S\bibinitperiod},
+           given={Evelyne},
+           giveni={E\bibinitperiod}}}%
+        {{hash=22095bc3c4fac3ad1b1936ae227ba07e}{%
+           family={Lewis},
+           familyi={L\bibinitperiod},
+           given={Frederick\bibnamedelima D},
+           giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Royal Society of Chemistry}%
+      }
+      \strng{namehash}{375d5ef18c5f0686e37ed3cb1a9d9927}
+      \strng{fullhash}{375d5ef18c5f0686e37ed3cb1a9d9927}
+      \strng{fullhashraw}{375d5ef18c5f0686e37ed3cb1a9d9927}
+      \strng{bibnamehash}{375d5ef18c5f0686e37ed3cb1a9d9927}
+      \strng{authorbibnamehash}{375d5ef18c5f0686e37ed3cb1a9d9927}
+      \strng{authornamehash}{375d5ef18c5f0686e37ed3cb1a9d9927}
+      \strng{authorfullhash}{375d5ef18c5f0686e37ed3cb1a9d9927}
+      \strng{authorfullhashraw}{375d5ef18c5f0686e37ed3cb1a9d9927}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Photochemical \& Photobiological Sciences}
+      \field{number}{8}
+      \field{title}{Interaction of UV radiation with DNA}
+      \field{volume}{12}
+      \field{year}{2013}
+      \verb{doi}
+      \verb 10.1039/c3pp90021e
+      \endverb
+    \endentry
     \entry{history}{article}{}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -475,6 +517,66 @@
       \field{year}{2007}
       \verb{doi}
       \verb 10.4265/bio.12.131
+      \endverb
+    \endentry
+    \entry{water}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=32acf420cc5828dbda20779ff28df28e}{%
+           family={Thirumdas},
+           familyi={T\bibinitperiod},
+           given={Rohit},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{2defd6e8bd7258d9efd70bc8051679b4}
+      \strng{fullhash}{2defd6e8bd7258d9efd70bc8051679b4}
+      \strng{fullhashraw}{2defd6e8bd7258d9efd70bc8051679b4}
+      \strng{bibnamehash}{2defd6e8bd7258d9efd70bc8051679b4}
+      \strng{authorbibnamehash}{2defd6e8bd7258d9efd70bc8051679b4}
+      \strng{authornamehash}{2defd6e8bd7258d9efd70bc8051679b4}
+      \strng{authorfullhash}{2defd6e8bd7258d9efd70bc8051679b4}
+      \strng{authorfullhashraw}{2defd6e8bd7258d9efd70bc8051679b4}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific Reports}
+      \field{title}{Plasma Activated Water (PAW): Chemistry, Physicochemical Properties, Applications in Food and Agriculture}
+      \field{volume}{8}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.1038/s41598-018-29549-6
+      \endverb
+    \endentry
+    \entry{ozone}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=17c7aab05b017a083cf197ab7e77ad1b}{%
+           family={Yao},
+           familyi={Y\bibinitperiod},
+           given={Hongliang},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{48e8393d27727343d28822f8864ccff8}
+      \strng{fullhash}{48e8393d27727343d28822f8864ccff8}
+      \strng{fullhashraw}{48e8393d27727343d28822f8864ccff8}
+      \strng{bibnamehash}{48e8393d27727343d28822f8864ccff8}
+      \strng{authorbibnamehash}{48e8393d27727343d28822f8864ccff8}
+      \strng{authornamehash}{48e8393d27727343d28822f8864ccff8}
+      \strng{authorfullhash}{48e8393d27727343d28822f8864ccff8}
+      \strng{authorfullhashraw}{48e8393d27727343d28822f8864ccff8}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chemical Engineering Journal}
+      \field{title}{Ozone application in food preservation: A review on the effects on microbial inactivation, quality, and safety}
+      \field{volume}{446}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.1016/j.cej.2022.137107
       \endverb
     \endentry
     \entry{morphology}{article}{}{}

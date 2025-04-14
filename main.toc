@@ -12,8 +12,16 @@
 \contentsline {section}{\numberline {3.4}Optical Emission Spectroscopy}{13}{section.3.4}%
 \contentsline {section}{\numberline {3.5}Sterilization Mechanism}{14}{section.3.5}%
 \contentsline {subsection}{\numberline {3.5.1}Reactive Species}{14}{subsection.3.5.1}%
-\contentsline {subsection}{\numberline {3.5.2}Radiation Effects}{14}{subsection.3.5.2}%
-\contentsline {chapter}{\numberline {4}Experimental Setup}{15}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Results}{16}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Conclusion}{17}{chapter.6}%
-\contentsline {chapter}{References}{18}{section*.5}%
+\contentsline {subsection}{\numberline {3.5.2}Radiation Effects}{15}{subsection.3.5.2}%
+\contentsline {chapter}{\numberline {4}Experimental Setup}{17}{chapter.4}%
+\contentsline {section}{\numberline {4.1}APP Setup}{17}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Dielectric Barrier Discharge}{17}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Optical Emission Spectroscopy}{17}{subsection.4.1.2}%
+\contentsline {section}{\numberline {4.2}Preparation of Samples}{20}{section.4.2}%
+\contentsline {section}{\numberline {4.3}UV Exposure}{22}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Plasma Treatment}{22}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Full Plasma Treatment}{22}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Isolation of Radiation}{22}{subsection.4.4.2}%
+\contentsline {chapter}{\numberline {5}Results}{23}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Conclusion}{24}{chapter.6}%
+\contentsline {chapter}{References}{25}{section*.9}%
