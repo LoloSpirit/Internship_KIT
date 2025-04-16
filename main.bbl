@@ -519,6 +519,42 @@
       \verb 10.4265/bio.12.131
       \endverb
     \endentry
+    \entry{shield}{online}{}{}
+      \name{author}{3}{}{%
+        {{hash=a5742b7fbc660811daa355a8e307fa4e}{%
+           family={Shunk},
+           familyi={S\bibinitperiod},
+           given={Graham\bibnamedelima K.},
+           giveni={G\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=f305318137815124cb5810c072cb59ed}{%
+           family={Gomez},
+           familyi={G\bibinitperiod},
+           given={Xavier\bibnamedelima R.},
+           giveni={X\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=a8c3c83a9b8732c1bed4df9edb78ed51}{%
+           family={Averesch},
+           familyi={A\bibinitperiod},
+           given={Nils\bibnamedelimb J.\bibnamedelimi H.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{da8c33f7fe0a40a46ff69f0e0dcfff20}
+      \strng{fullhash}{da8c33f7fe0a40a46ff69f0e0dcfff20}
+      \strng{fullhashraw}{da8c33f7fe0a40a46ff69f0e0dcfff20}
+      \strng{bibnamehash}{da8c33f7fe0a40a46ff69f0e0dcfff20}
+      \strng{authorbibnamehash}{da8c33f7fe0a40a46ff69f0e0dcfff20}
+      \strng{authornamehash}{da8c33f7fe0a40a46ff69f0e0dcfff20}
+      \strng{authorfullhash}{da8c33f7fe0a40a46ff69f0e0dcfff20}
+      \strng{authorfullhashraw}{da8c33f7fe0a40a46ff69f0e0dcfff20}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Self-Replicating Radiation-Shield for Human Deep-Space Exploration: Radiotrophic Fungi can Attenuate Ionizing Radiation aboard the International Space Station}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1101/2020.07.16.205534
+      \endverb
+    \endentry
     \entry{water}{article}{}{}
       \true{moreauthor}
       \true{morelabelname}
