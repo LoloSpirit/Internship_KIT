@@ -19,6 +19,42 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global/global}
+    \entry{spectrum}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=8367ffe04280fb2acbd59fdabeaaa7e7}{%
+           family={An},
+           familyi={A\bibinitperiod},
+           given={Surin},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4dd185e5d8dc936b7a9be8f92d0cc840}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Sang},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{f81ffe9bee36f6044b47f359cf0435cb}
+      \strng{fullhash}{f81ffe9bee36f6044b47f359cf0435cb}
+      \strng{fullhashraw}{f81ffe9bee36f6044b47f359cf0435cb}
+      \strng{bibnamehash}{f81ffe9bee36f6044b47f359cf0435cb}
+      \strng{authorbibnamehash}{f81ffe9bee36f6044b47f359cf0435cb}
+      \strng{authornamehash}{f81ffe9bee36f6044b47f359cf0435cb}
+      \strng{authorfullhash}{f81ffe9bee36f6044b47f359cf0435cb}
+      \strng{authorfullhashraw}{f81ffe9bee36f6044b47f359cf0435cb}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Coatings}
+      \field{month}{01}
+      \field{title}{Spectroscopic Analysis of NF3 Plasmas with Oxygen Additive for PECVD Chamber Cleaning}
+      \field{volume}{13}
+      \field{year}{2023}
+      \field{pages}{91}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/coatings13010091
+      \endverb
+    \endentry
     \entry{growth}{book}{}{}
       \name{author}{1}{}{%
         {{hash=c6c3a5c93854126bba60497705d6425a}{%
@@ -146,6 +182,81 @@
       \field{year}{2008}
       \verb{doi}
       \verb 10.1016/j.mib.2008.09.013
+      \endverb
+    \endentry
+    \entry{coefficients}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=65946f8f140497efb2420b8e6a31e6ba}{%
+           family={Gilmore},
+           familyi={G\bibinitperiod},
+           given={F.\bibnamedelimi R.},
+           giveni={F\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=987e02c2b75f69b9cd60732041d182bf}{%
+           family={Laher},
+           familyi={L\bibinitperiod},
+           given={R.\bibnamedelimi R.},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=73ec8d5d07d19760d7fb79307e6321d9}{%
+           family={Espy},
+           familyi={E\bibinitperiod},
+           given={P.\bibnamedelimi J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Institute of Physics}%
+      }
+      \strng{namehash}{009ce9eeaf485ec758db21dc5cbc2c9b}
+      \strng{fullhash}{009ce9eeaf485ec758db21dc5cbc2c9b}
+      \strng{fullhashraw}{009ce9eeaf485ec758db21dc5cbc2c9b}
+      \strng{bibnamehash}{009ce9eeaf485ec758db21dc5cbc2c9b}
+      \strng{authorbibnamehash}{009ce9eeaf485ec758db21dc5cbc2c9b}
+      \strng{authornamehash}{009ce9eeaf485ec758db21dc5cbc2c9b}
+      \strng{authorfullhash}{009ce9eeaf485ec758db21dc5cbc2c9b}
+      \strng{authorfullhashraw}{009ce9eeaf485ec758db21dc5cbc2c9b}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Physical and Chemical Reference Data}
+      \field{number}{5}
+      \field{title}{Franck-Condon factors, r-centroids, electronic transition moments, and Einstein coefficients for many nitrogen and oxygen band systems}
+      \field{volume}{21}
+      \field{year}{1992}
+      \field{pages}{1062}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1063/1.555910
+      \endverb
+    \endentry
+    \entry{oes_temperature}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=a1c17380051157d66f2bc496a4599023}{%
+           family={Hiroshi\bibnamedelima Onishi},
+           familyi={H\bibinitperiod\bibinitdelim O\bibinitperiod},
+           given={Hiroshi\bibnamedelima Akatsuka},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{1b87809db4463261766ac2dd2ee8a019}
+      \strng{fullhash}{1b87809db4463261766ac2dd2ee8a019}
+      \strng{fullhashraw}{1b87809db4463261766ac2dd2ee8a019}
+      \strng{bibnamehash}{1b87809db4463261766ac2dd2ee8a019}
+      \strng{authorbibnamehash}{1b87809db4463261766ac2dd2ee8a019}
+      \strng{authornamehash}{1b87809db4463261766ac2dd2ee8a019}
+      \strng{authorfullhash}{1b87809db4463261766ac2dd2ee8a019}
+      \strng{authorfullhashraw}{1b87809db4463261766ac2dd2ee8a019}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Japanese Journal of Applied Physics}
+      \field{number}{2}
+      \field{title}{Measurement of electron temperature and density of atmospheric-pressure non-equilibrium argon plasma examined with optical emission spectroscopy}
+      \field{volume}{60}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.35848/1347-4065/abd5a2
       \endverb
     \endentry
     \entry{app_study}{article}{}{}
@@ -415,6 +526,33 @@
       \verb 10.3389/fmicb.2022.877625
       \endverb
     \endentry
+    \entry{nist}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=f33ffcdfadd7ce456c01434c800cf419}{%
+           family={{NIST Atomic Spectra Database}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{f33ffcdfadd7ce456c01434c800cf419}
+      \strng{fullhash}{f33ffcdfadd7ce456c01434c800cf419}
+      \strng{fullhashraw}{f33ffcdfadd7ce456c01434c800cf419}
+      \strng{bibnamehash}{f33ffcdfadd7ce456c01434c800cf419}
+      \strng{authorbibnamehash}{f33ffcdfadd7ce456c01434c800cf419}
+      \strng{authornamehash}{f33ffcdfadd7ce456c01434c800cf419}
+      \strng{authorfullhash}{f33ffcdfadd7ce456c01434c800cf419}
+      \strng{authorfullhashraw}{f33ffcdfadd7ce456c01434c800cf419}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{NIST Atomic Spectra Database}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://physics.nist.gov/asd
+      \endverb
+      \verb{url}
+      \verb https://physics.nist.gov/asd
+      \endverb
+    \endentry
     \entry{kit}{inproceedings}{}{}
       \name{author}{3}{}{%
         {{hash=990780d00aab8c0df6480e4ccff28143}{%
@@ -487,6 +625,75 @@
       \verb{doi}
       \verb 10.3114/sim.2007.58.06
       \endverb
+    \endentry
+    \entry{spectra}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=f28d9d6fb9c711b0ced641b61914c02a}{%
+           family={Pearse},
+           familyi={P\bibinitperiod},
+           given={R.\bibnamedelimi W.\bibnamedelimi B.},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=56dc9a5c7ece785f0ac97181c49088eb}{%
+           family={Gaydon},
+           familyi={G\bibinitperiod},
+           given={A.\bibnamedelimi G.},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Chapman}%
+        {Hall}%
+      }
+      \strng{namehash}{34fe03994a9d149f5225afc148278e9f}
+      \strng{fullhash}{34fe03994a9d149f5225afc148278e9f}
+      \strng{fullhashraw}{34fe03994a9d149f5225afc148278e9f}
+      \strng{bibnamehash}{34fe03994a9d149f5225afc148278e9f}
+      \strng{authorbibnamehash}{34fe03994a9d149f5225afc148278e9f}
+      \strng{authornamehash}{34fe03994a9d149f5225afc148278e9f}
+      \strng{authorfullhash}{34fe03994a9d149f5225afc148278e9f}
+      \strng{authorfullhashraw}{34fe03994a9d149f5225afc148278e9f}
+      \field{extraname}{1}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4th}
+      \field{isbn}{9780412105403}
+      \field{title}{The Identification of Molecular Spectra}
+      \field{year}{1976}
+    \endentry
+    \entry{book}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=f28d9d6fb9c711b0ced641b61914c02a}{%
+           family={Pearse},
+           familyi={P\bibinitperiod},
+           given={R.\bibnamedelimi W.\bibnamedelimi B.},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=56dc9a5c7ece785f0ac97181c49088eb}{%
+           family={Gaydon},
+           familyi={G\bibinitperiod},
+           given={A.\bibnamedelimi G.},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Chapman}%
+        {Hall}%
+      }
+      \strng{namehash}{34fe03994a9d149f5225afc148278e9f}
+      \strng{fullhash}{34fe03994a9d149f5225afc148278e9f}
+      \strng{fullhashraw}{34fe03994a9d149f5225afc148278e9f}
+      \strng{bibnamehash}{34fe03994a9d149f5225afc148278e9f}
+      \strng{authorbibnamehash}{34fe03994a9d149f5225afc148278e9f}
+      \strng{authornamehash}{34fe03994a9d149f5225afc148278e9f}
+      \strng{authorfullhash}{34fe03994a9d149f5225afc148278e9f}
+      \strng{authorfullhashraw}{34fe03994a9d149f5225afc148278e9f}
+      \field{extraname}{2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4th}
+      \field{title}{The identification of molecular spectra}
+      \field{year}{1976}
     \endentry
     \entry{inactivation}{article}{}{}
       \true{moreauthor}

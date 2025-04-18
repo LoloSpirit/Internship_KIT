@@ -48,9 +48,34 @@ To achieve a controlled non-thermal plasma at atmospheric pressure a dielectric 
 DBD is used widely in different applications that require a non-thermal plasma like the semiconductor or medical industry. It is used for surface treatment, cleaning and sterilization, like in this work, where a cold plasma is needed that does not destroy the surfaces it interacts with. It is interesting
 
 \section{Optical Emission Spectroscopy}
-Optical emission spectroscopy (OES) uses the electromagnetic radiation emitted by a plasma to analyse its composition. This can be done non-intrusively meaning that the plasma does not need to be disturbed and remains unaffected by the measurement. That is a major advantage when working with small volumes of plasma like in this work where probes would significantly change the conditions \cite{plasma2}. OES measures a spectrum of the emitted light which gives the intensity at different wavelengths. Because the photons originate from distinct transitions between energy levels sharp peaks are observed in the spectrum. Their wavelength can be used to identify the species that are present in the plasma as well as the processes that occur. This also allows an estimate of the plasma temperature and the concentration of the different gases in the plasma, although more information like cross-sections for the different processes is needed \cite{plasma2}. Boltzmann plots are often used to derive the electron temperature from the measured spectrum, however they assume local thermal equilibrium which is not the case in non-thermal plasmas. This means that the electron temperature is not equal to the gas temperature and the Boltzmann plot can only be used as an approximation \cite{plasma2}. 
+Optical emission spectroscopy (OES) uses the electromagnetic radiation emitted by a plasma to analyse its composition. This can be done non-intrusively meaning that the plasma does not need to be disturbed and remains unaffected by the measurement. That is a major advantage when working with small volumes of plasma like in this work where probes would significantly change the conditions \cite{plasma2}. OES measures a spectrum of the emitted light which gives the intensity at different wavelengths. Because the photons originate from distinct transitions between energy levels sharp peaks are observed in the spectrum. Their wavelength can be used to identify the species that are present in the plasma as well as the processes that occur. This also allows an estimate of the plasma temperature and the concentration of the different gases in the plasma, although more information like cross-sections for the different processes is needed \cite{plasma2}. 
 
-In OES one needs to account for the spectrometer's spectral response, which is the sensitivity of the detector per wavelength. This is usually done by measuring a calibration spectrum and correcting the measured spectrum accordingly. 
+\subsection{Boltzmann Plots}
+\label{sec:boltzmann}
+Boltzmann Plots are often used to derive the electron temperature \( T_\text{e} \) from a measured spectrum. They underlie the assumption that the probability for transitions follows a Boltzmann distribution, with the intensity of the emission line proportional to the Einstein coefficient for spontaneous emission. The relationship between intensity and temperature is given by:
+
+\begin{equation}
+    \frac{I_j}{g_j} \propto A_{ij} \exp\left( - \frac{E_j}{k_B T_\text{e}} \right),
+\end{equation}
+
+where \( I_j \) is the intensity of the emission line from an excited state \( j \), \( g_j \) is the degeneracy of that state, \( E_j \) is the energy of the state, \( A_{ij} \) is the Einstein coefficient for spontaneous emission, and \( k_B \) is the Boltzmann constant. 
+
+When the intensities are normalized, the relative intensity is used, and the plot of \( \ln \left( \frac{I_j}{g_j A_{ij}} \right) \) versus the energy \( E_j \) results in a straight line. The slope \( m \) of this line provides an estimate for the electron temperature \( T_\text{e} \):
+
+\begin{equation}
+    m = - \frac{1}{k_B T_\text{e}}.
+\end{equation}
+
+However, it is also assumed that the plasma is in local thermal equilibrium which is not the case in non-thermal plasmas. The assumption that the electron temperature is equal to the gas temperature is not valid and the Boltzmann plot can not be used to get an absolute temperature value in this work \cite{plasma2}. 
+
+\subsection{Other methods}
+A very interesting study by Hiroshi Akatsuka \cite{oes_temperature} was able to show that the electron temperature and density can be derived from the OES spectrum of a non-equilibrium plasma. To do so the continuum spectrum of the plasma was measured and its absolute emissivity per wavelength $\lambda$ was calculated. The continuum spectrum is caused mainly by \textsc{Bremsstrahlung} emitted by decelerating electrons in the plasma \cite{oes_temperature}. It is much less intense than the peaks formed by electron transitions but is closely related to the electron temperature and density. The following relationship describes how the emissivity $\varepsilon_\lambda$ and the intensity $I_\lambda$, found through OES, are related and the optical length through the plasma $L$ is known:
+\begin{equation}
+I_\lambda = \int_0^L \varepsilon_\lambda(l) \, dl.
+\end{equation}
+By then fitting an electron energy distribution function (EEDF) to the measured spectrum the electron temperature and density can be derived as fit parameters. The EEDF describes the distribution of the electron energy in the plasma and is a function of the electron temperature. A Maxwellian distribution and a Druyvesteyn distribution were used in the study to obtain accurate results \cite{oes_temperature}. While the results from this study are used as a reference for comparison the method itself could not be applied in this work because of limited resources and time.
+
+In OES one needs to account for the spectrometer's spectral response, which is the sensitivity of the detector per wavelength. This is usually done by measuring a calibration spectrum and correcting the measured spectrum accordingly.  
 
 \section{Sterilization Mechanism}
 APPs have been used for sterilization of surfaces in many studies as outlined in chapter \ref{chap:scientific_context}. Although the plasma is not in direct contact with the sample two main mechanism have been found to be responsible for the sterilization effect. The first is the radiation emitted by the plasma, which can be UV or visible light. The second is the reactive species that are produced in the plasma and interact with the surface. Additionally, heat as well as electric fields can also play a role in the sterilization process. The exact mechanism is still subject to research and what process dominates depends on the specific setup and sample. This study aims to test and isolate the effects of the radiation and reactive species on the inactivation of C. sphaerospermum. The following sections will discuss what is known about the different processes and how contribute to the sterilization.
