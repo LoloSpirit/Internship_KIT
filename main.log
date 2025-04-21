@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.4)  21 APR 2025 15:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.4)  21 APR 2025 15:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1475,12 +1475,12 @@ Package pdftex.def Info: images/mould.jpg  used on input line 16.
 
 [21]
 chapter 4.
-<images/Process_setup.png, id=332, 965.10562pt x 761.84625pt>
+<images/Process_setup.png, id=331, 965.10562pt x 761.84625pt>
 File: images/Process_setup.png Graphic file (type png)
 <use images/Process_setup.png>
 Package pdftex.def Info: images/Process_setup.png  used on input line 9.
 (pdftex.def)             Requested size: 250.95587pt x 198.0986pt.
-<images/Setup_photo.jpeg, id=333, 699.61375pt x 932.48375pt>
+<images/Setup_photo.jpeg, id=332, 699.61375pt x 932.48375pt>
 File: images/Setup_photo.jpeg Graphic file (type jpg)
 <use images/Setup_photo.jpeg>
 Package pdftex.def Info: images/Setup_photo.jpeg  used on input line 16.
@@ -1488,12 +1488,12 @@ Package pdftex.def Info: images/Setup_photo.jpeg  used on input line 16.
 
 LaTeX Warning: Reference `fig:signal' on page 22 undefined on input line 23.
 
-<images/APP_setup.png, id=336, 625.33624pt x 670.505pt>
+<images/APP_setup.png, id=335, 625.33624pt x 670.505pt>
 File: images/APP_setup.png Graphic file (type png)
 <use images/APP_setup.png>
 Package pdftex.def Info: images/APP_setup.png  used on input line 26.
 (pdftex.def)             Requested size: 271.86354pt x 291.50363pt.
-<images/Plasma.png, id=337, 830.10126pt x 146.5475pt>
+<images/Plasma.png, id=336, 830.10126pt x 146.5475pt>
 File: images/Plasma.png Graphic file (type png)
 <use images/Plasma.png>
 Package pdftex.def Info: images/Plasma.png  used on input line 33.
@@ -1507,7 +1507,7 @@ Package pdftex.def Info: images/Plasma.png  used on input line 33.
 [23 <./images/Process_setup.png> <./images/Setup_photo.jpeg>]
 
 [24 <./images/APP_setup.png> <./images/Plasma.png>]
-<images/OES.png, id=356, 425.9112pt x 312.6882pt>
+<images/OES.png, id=355, 425.9112pt x 312.6882pt>
 File: images/OES.png Graphic file (type png)
 <use images/OES.png>
 Package pdftex.def Info: images/OES.png  used on input line 45.
@@ -1515,7 +1515,7 @@ Package pdftex.def Info: images/OES.png  used on input line 45.
 
 
 [25 <./images/OES.png>]
-<images/Process.png, id=365, 1193.45876pt x 704.6325pt>
+<images/Process.png, id=364, 1193.45876pt x 704.6325pt>
 File: images/Process.png Graphic file (type png)
 <use images/Process.png>
 Package pdftex.def Info: images/Process.png  used on input line 71.
@@ -1525,7 +1525,7 @@ Package pdftex.def Info: images/Process.png  used on input line 71.
 [26]
 
 [27 <./images/Process.png>]
-<images/UV_lamp_no_glass.png, id=377, 432.1746pt x 312.6882pt>
+<images/UV_lamp_no_glass.png, id=376, 432.1746pt x 312.6882pt>
 File: images/UV_lamp_no_glass.png Graphic file (type png)
 <use images/UV_lamp_no_glass.png>
 Package pdftex.def Info: images/UV_lamp_no_glass.png  used on input line 95.
@@ -1535,53 +1535,55 @@ Package pdftex.def Info: images/UV_lamp_no_glass.png  used on input line 95.
 [28]) (./Results.tex
 
 [29 <./images/UV_lamp_no_glass.png>]
+
+[30]
 chapter 5.
-<images/OES_analysis.png, id=399, 425.9112pt x 312.6882pt>
+<images/OES_analysis.png, id=403, 425.9112pt x 312.6882pt>
 File: images/OES_analysis.png Graphic file (type png)
 <use images/OES_analysis.png>
 Package pdftex.def Info: images/OES_analysis.png  used on input line 16.
 (pdftex.def)             Requested size: 418.25554pt x 307.06691pt.
-<images/N2_2PS.jpeg, id=400, 887.4756pt x 96.1191pt>
+<images/N2_2PS.jpeg, id=404, 887.4756pt x 96.1191pt>
 File: images/N2_2PS.jpeg Graphic file (type jpg)
 <use images/N2_2PS.jpeg>
 Package pdftex.def Info: images/N2_2PS.jpeg  used on input line 23.
 (pdftex.def)             Requested size: 418.25554pt x 45.29916pt.
 
 
-[30
+[31
 
 ]
 
-[31 <./images/OES_analysis.png> <./images/N2_2PS.jpeg>]
-<images/boltzmann_plot.png, id=425, 497.4585pt x 353.4003pt>
+[32 <./images/OES_analysis.png> <./images/N2_2PS.jpeg>]
+<images/boltzmann_plot.png, id=428, 497.4585pt x 353.4003pt>
 File: images/boltzmann_plot.png Graphic file (type png)
 <use images/boltzmann_plot.png>
 Package pdftex.def Info: images/boltzmann_plot.png  used on input line 33.
 (pdftex.def)             Requested size: 355.51976pt x 252.57143pt.
 
 
-[32 <./images/boltzmann_plot.png>]
-<images/UV_SP.jpeg, id=438, 1606.0pt x 903.375pt>
+[33 <./images/boltzmann_plot.png>]
+<images/UV_SP.jpeg, id=441, 1606.0pt x 903.375pt>
 File: images/UV_SP.jpeg Graphic file (type jpg)
 <use images/UV_SP.jpeg>
 Package pdftex.def Info: images/UV_SP.jpeg  used on input line 45.
 (pdftex.def)             Requested size: 334.6057pt x 188.21185pt.
-<images/UV_AG.jpeg, id=439, 1606.0pt x 903.375pt>
+<images/UV_AG.jpeg, id=442, 1606.0pt x 903.375pt>
 File: images/UV_AG.jpeg Graphic file (type jpg)
 <use images/UV_AG.jpeg>
 Package pdftex.def Info: images/UV_AG.jpeg  used on input line 52.
 (pdftex.def)             Requested size: 334.6057pt x 188.21185pt.
 
 
-[33]
+[34]
 
-[34 <./images/UV_SP.jpeg> <./images/UV_AG.jpeg>]) (./Conclusion.tex
+[35 <./images/UV_SP.jpeg> <./images/UV_AG.jpeg>]) (./Conclusion.tex
 
-[35]
+[36]
 chapter 6.
 )
 
-[36
+[37
 
 ]
 LaTeX Font Info:    Trying to load font information for T1+pcr on input line 139.
@@ -1594,19 +1596,19 @@ Overfull \hbox (9.68211pt too wide) in paragraph at lines 140--140
 
 
 
-[37
+[38
 
 
 
 ]
 
-[38]
+[39]
 
-[39] (./Appendix.tex
+[40] (./Appendix.tex
 chapter A.
 )
 
-[40
+[41
 
 
 
@@ -1626,18 +1628,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 43420 strings out of 473584
- 870276 string characters out of 5728329
+ 43422 strings out of 473584
+ 870303 string characters out of 5728329
  1939905 words of memory out of 5000000
- 65498 multiletter control sequences out of 15000+600000
+ 65499 multiletter control sequences out of 15000+600000
  643192 words of font info for 137 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,12n,120p,10977b,2746s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (41 pages, 6989255 bytes).
+Output written on main.pdf (42 pages, 6989853 bytes).
 PDF statistics:
- 699 PDF objects out of 1000 (max. 8388607)
- 589 compressed objects within 6 object streams
- 140 named destinations out of 1000 (max. 500000)
+ 703 PDF objects out of 1000 (max. 8388607)
+ 592 compressed objects within 6 object streams
+ 141 named destinations out of 1000 (max. 500000)
  357 words of extra memory for PDF output out of 10000 (max. 10000000)
 

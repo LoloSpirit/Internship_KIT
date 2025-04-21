@@ -23,12 +23,12 @@
 \contentsline {section}{\numberline {4.2}Preparation of Samples}{25}{section.4.2}%
 \contentsline {section}{\numberline {4.3}UV Exposure}{28}{section.4.3}%
 \contentsline {section}{\numberline {4.4}Plasma Treatment}{29}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Full Plasma Treatment}{29}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}Isolation of Radiation}{29}{subsection.4.4.2}%
-\contentsline {chapter}{\numberline {5}Results}{30}{chapter.5}%
-\contentsline {section}{\numberline {5.1}OES Analysis}{30}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Effect of UV Exposure}{32}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Effect of Plasma Treatment}{35}{section.5.3}%
-\contentsline {chapter}{\numberline {6}Conclusion}{36}{chapter.6}%
-\contentsline {chapter}{References}{37}{section*.18}%
-\contentsline {chapter}{\numberline {A}Appendix}{40}{appendix.A}%
+\contentsline {subsection}{\numberline {4.4.1}Isolation of Radiation}{29}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Chemical Probe Method}{29}{subsection.4.4.2}%
+\contentsline {chapter}{\numberline {5}Results}{31}{chapter.5}%
+\contentsline {section}{\numberline {5.1}OES Analysis}{31}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Effect of UV Exposure}{33}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Effect of Plasma Treatment}{36}{section.5.3}%
+\contentsline {chapter}{\numberline {6}Conclusion}{37}{chapter.6}%
+\contentsline {chapter}{References}{38}{section*.18}%
+\contentsline {chapter}{\numberline {A}Appendix}{41}{appendix.A}%
