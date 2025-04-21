@@ -492,6 +492,38 @@
       \field{volume}{10}
       \field{year}{2015}
     \endentry
+    \entry{artemis}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=1f99771bc3e23e6097509a331544ab65}{%
+           family={{NASA}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {National Aeronautics}%
+        {Space Administration}%
+      }
+      \strng{namehash}{1f99771bc3e23e6097509a331544ab65}
+      \strng{fullhash}{1f99771bc3e23e6097509a331544ab65}
+      \strng{fullhashraw}{1f99771bc3e23e6097509a331544ab65}
+      \strng{bibnamehash}{1f99771bc3e23e6097509a331544ab65}
+      \strng{authorbibnamehash}{1f99771bc3e23e6097509a331544ab65}
+      \strng{authornamehash}{1f99771bc3e23e6097509a331544ab65}
+      \strng{authorfullhash}{1f99771bc3e23e6097509a331544ab65}
+      \strng{authorfullhashraw}{1f99771bc3e23e6097509a331544ab65}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-04-21}
+      \field{title}{NASA's Artemis Plan: NASA's Lunar Exploration Program Overview}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.nasa.gov/sites/default/files/atoms/files/artemis_plan-20200921.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.nasa.gov/sites/default/files/atoms/files/artemis_plan-20200921.pdf
+      \endverb
+    \endentry
     \entry{iss}{article}{}{}
       \name{author}{2}{}{%
         {{hash=e5c43d074614218653a592a1e245d902}{%
