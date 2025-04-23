@@ -1,18 +1,8 @@
-% Schmutztitel wird einseitig gesetzt, um Layout
-% nicht zu zerschreddern
-% Wer den Schmutztitel nicht haben will, l\"{o}scht diesen Teil einfach
-\KOMAoptions{twoside=false}
-% Beginn des Schmutztitels als Teil der Titlepage-Umgebung
-\begin{titlepage}%Schmutztitel; Grafiken mit Tikz erstellt; Signet eingebunden
+\begin{titlepage}
 \begin{tikzpicture}[remember picture,overlay,shift={(current page.south)}]
 
 
-\node at (7.5,25.5) {\includegraphics[width = 0.32\textwidth]{JLU.jpg}};
-
-%\fill[left color=black!100, right color=black!100](-8,7.5) rectangle +(16,9);
-
-
-\node [text width=13cm] at (0, 13.5)
+\node [text width=13cm] at (0, 9.5)
 {
 \sffamily
 \begin{flushleft}
@@ -30,43 +20,12 @@ on the Sterilization of Cladosporium sphaerospermum}\\[3ex]
 \small\text{SS 25}\\[.9ex]
 \end{flushleft}
 };
-\centering
-\node [text width=8cm] at (0,25.5){\includegraphics[width = 1\textwidth]{Logo_KIT.png}};
 
-% Auskommentieren erzeugt Hilfslinien und Punkte auf Schmutztitelseite
-% kann hilfreich für Anpassungen sein
-%\draw [help lines] (-10,0) grid (10,30);
-%\draw [fill=black] (0, 0) circle (0.1);
-%\draw [fill=black] (0, 5) circle (0.1);
-%\draw [fill=black] (0, 10) circle (0.1);
-%\draw [fill=black] (0, 15) circle (0.1);
-%\draw [fill=black] (0, 20) circle (0.1);
-%\draw [fill=black] (0, 25) circle (0.1);
-%\draw [fill=black] (5, 0) circle (0.1);
-%\draw [fill=black] (5, 5) circle (0.1);
-%\draw [fill=black] (5, 10) circle (0.1);
-%\draw [fill=black] (5, 15) circle (0.1);
-%\draw [fill=black] (5, 20) circle (0.1);
-%\draw [fill=black] (5, 25) circle (0.1);
-%\draw [fill=black] (-10, 0) circle (0.1);
-%\draw [fill=black] (-10, 5) circle (0.1);
-%\draw [fill=black] (-10, 10) circle (0.1);
-%\draw [fill=black] (-10, 15) circle (0.1);
-%\draw [fill=black] (-10, 20) circle (0.1);
-%\draw [fill=black] (-10, 25) circle (0.1);
-%\draw [fill=black] (-5, 0) circle (0.1);
-%\draw [fill=black] (-5, 5) circle (0.1);
-%\draw [fill=black] (-5, 10) circle (0.1);
-%\draw [fill=black] (-5, 15) circle (0.1);
-%\draw [fill=black] (-5, 20) circle (0.1);
-%\draw [fill=black] (-5, 25) circle (0.1);
-%\draw [fill=black] (10, 0) circle (0.1);
-%\draw [fill=black] (10, 5) circle (0.1);
-%\draw [fill=black] (10, 10) circle (0.1);
-%\draw [fill=black] (10, 15) circle (0.1);
-%\draw [fill=black] (10, 20) circle (0.1);
-%\draw [fill=black] (10, 25) circle (0.1);
+\centering
+\node [text width=8cm] at (0,18){\includegraphics[width = 1\textwidth]{Logo_KIT.png}};
+
+
+\node at (0,25) {\includegraphics[width = 0.32\textwidth]{JLU.jpg}};
 
 \end{tikzpicture}
 \end{titlepage}
-% Ende des Schmutztitels 

@@ -38,6 +38,30 @@ Using data from \cite{coefficients} listed in Table \ref{tab:boltzmann} (Appendi
 \section{Effect of UV Exposure}
 To confirm the effect of UV radiation on the spores of C. sphaerospermum, a control experiment is performed. First the spores are exposed to the UV lamp on agar medium for different times. After 15 min of exposure full deactivation was achieved. To control for the effect of the UV light on the agar medium, a second experiment is performed where the agar medium and spores are exposed to the UV light separately. To expose the spores they are instead put into the UV light in water and added to untreated agar media later. In Figure \ref{fig:uv_experiment} the petri dishes after incubation are shown. Table \ref{tab:uv_matrix} shows the number of colonies in a matrix. It becomes clear from this data that the UV light has no significant effect on the agar medium while it has a strong effect on the spores after an exposure time of 15 minutes. Using equation \ref{eq:uv_dose} the dose of UV radiation can be estimated and equates to 1.03 mJ/cm$^2$.
 
+\begin{table}
+    \centering
+    \caption[Number of colonies after UV exposure as a matrix]{Number of colonies after UV exposure as a matrix. The results after 15 minutes are shown with an estimated dose of ca. 1.03 mJ/cm$^2$.}
+    \vspace*{1em}
+    \renewcommand{\arraystretch}{1.4}
+    \setlength{\tabcolsep}{12pt}
+    \begin{tabular}{c|cc}
+        {\# of colonies} & {Spores no UV} & {Spores UV} \\
+        \hline
+        Agar no UV & 185 (cntrl) & 0 \\
+        Agar UV    & 178 & 0 \\
+    \end{tabular}
+    \label{tab:uv_matrix}
+\end{table}
+
+Since any effects of the UV light on the agar medium can be neglected and the spores are fully deactivated after 15 minutes another experiment treating the spores on the medium can be performed. Figure \ref{fig:uv_time} shows the results of different exposure times. Here a clear relationship between the exposure time and the inactivation of spores can be observed. The UV light emitted by the lamp proves to be effective in inactivating the spores. While much more intense and in a different UV band than the UV light emitted by the APP, it provides a good reference and the basis for the treatment of spores with the radiation of the APP.
+
+\begin{figure}
+    \centering
+    \includegraphics[width=1\textwidth]{images/UV.png}
+    \caption[Inactivation of spores after increasing exposure times to UV light]{Inactivation of spores after increasing exposure times to UV light}
+    \label{fig:uv_time}
+\end{figure}
+
 \begin{figure}
     \centering
     \begin{subfigure}[b]{0.8\textwidth}
@@ -50,27 +74,32 @@ To confirm the effect of UV radiation on the spores of C. sphaerospermum, a cont
     \begin{subfigure}[b]{.8\textwidth}
         \centering
         \includegraphics[width=\textwidth]{images/UV_AG.jpeg}
-        \caption{Agar UV exposure}
+        \caption{Agar UV exposure and control (left)}
         \label{fig:uv_b}
     \end{subfigure}
-    \caption[Photograph of Petri dishes after treatment]{Petri dishes with spores (a) and agar (b) treated with UV light}
+    \caption[Photograph of Petri dishes after treatment]{Petri dishes with spores (a) and agar (b) treated with UV light. Colonies are visible in the agar media with a high number in the control and exposed agar media. The individual colonies are counted and shown in Table \ref{tab:uv_matrix}}. 
     \label{fig:uv_experiment}
 \end{figure}
 
-\begin{table}
-    \centering
-    \caption[Number of colonies after UV exposure as a matrix]{Number of colonies after UV exposure as a matrix. The results after 15 minutes are shown with an estimated dose of ca. 1.03 mJ/cm$^2$.}
-    \vspace*{1em}
-    \renewcommand{\arraystretch}{1.4}
-    \setlength{\tabcolsep}{12pt}
-    \begin{tabular}{c|cc}
-        {\# of colonies} & {Spores no UV} & {Spores UV} \\
-        \hline
-        Agar no UV & >100 (cntrl) & 0 \\
-        Agar UV    & >100 & 0 \\
-    \end{tabular}
-    \label{tab:uv_matrix}
-\end{table}
-
 
 \section{Effect of Plasma Treatment}
+After the radiation of the plasma and the effect of UV light on the spores of C. sphaerospermum has been analysed, the effect of the APP treatment on the spores can be further investigated. Because previous experiments \cite{kit} have shown that the full APP treatment is effective in inactivating spores, in this experiment it only serves as a control reference for comparison. To keep the experiment as simple as possible, the treatment does not employ the mist generator that has been used in prior work to boost humidity.
+
+\begin{figure}
+    \centering
+    \includegraphics[width=.8\textwidth]{images/Treatment.png}
+    \caption[Inactivation of spores after exposure to plasma]{Inactivation of spores after exposure to plasma radiation with and without reactive species. The data for radiation only at 10 minutes seems to be an outlier and may have resulted from an error in the experiment. In general the treatment shows a clear trend of rising inactivation.}
+    \label{fig:treatment}
+\end{figure}
+
+Figure \ref{fig:treatment} shows the results of the treatment with and without reactive species. As expected the treatment with reactive species shows a much higher inactivation rate and inactivates more than 99 \% of the spores after 20 minutes. While not as effective, the treatment with only the radiation of the APP still shows a significant correlation between the exposure time and the inactivation of spores. After 30 minutes about 50 \% of the spores are inactivated.
+
+To confirm that the inactivation in the radiation treatment is really caused by the UV light that the APP emits the intensity of the hydroxyl radicals is measured with and without the glass barrier. Another experiment is conducted where agar media with an added NATA solution but without spores are treated. The resulting fluorescence can give a good indication of the concentration of hydroxyl radicals that reached the agar medium. The results are shown in Figure \ref{fig:oh} where the intensities of the fluorescence around the characteristic wavelength (425 nm) of the hydroxyl radicals are plotted. The control group was not exposed to the APP. The results show that, while non-zero, the intensity of the fluorescence is significantly lower when the glass barrier is used. In that case the concentration of hydroxyl radicals also does not show any significant increase over time. It is about 11 \% of the intensity of the fully treated media without the glass barrier after 20 minutes. This indicates that the hydroxyl radicals are not the main cause of inactivation in the radiation treatment, but it is also not possible to fully rule out that they play a role also.
+
+
+\begin{figure}
+    \centering
+    \includegraphics[width=.8\textwidth]{images/OH_concentration.png}
+    \caption[Intensity of Fluorescence of Hydroxyl Radicals via Chemical Probe Method]{Intensity of fluorescence of hydroxyl radicals with and without the glass barrier. The fluorescence is induced by the chemical probe (NATA). The intensity of the fluorescence is shown in arbitrary units and can be directly related to OH concentration.}
+    \label{fig:oh}
+\end{figure}
